@@ -19,11 +19,6 @@ let currentGame = {
     score2: 0,
 };
 
-// set event listeners 
-  // get user input
-  // use user input to update state 
-  // update DOM to reflect the new state
-
 nameForm.addEventListener('submit', (e) => {
     const formData = new FormData();
   
